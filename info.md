@@ -1,4 +1,4 @@
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Malmo-Chapter/)
 
 
