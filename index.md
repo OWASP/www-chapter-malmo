@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Malmo
 tags: ssi ssdlc secure-coding appsec malmo cybersecurity
-region: Sweden
+region: Europe
 
 ---
 
