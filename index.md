@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Malmo
 tags: ssi ssdlc secure-coding appsec malmo cybersecurity
 region: Europe
+meetup-group: OWASP-Malmo-Chapter
+country: Sweden
+postal-code: 
 
 ---
 
